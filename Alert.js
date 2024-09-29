@@ -2,6 +2,7 @@
  * AlertJS Library
  * Copyright (c) 2024 Sumeet Ghimire
  * Released under the MIT License
+ * Version :1.0.2
  * https://github.com/sumeetghimire/AlertJs
  */
 
